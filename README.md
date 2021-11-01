@@ -12,5 +12,5 @@
 ### 📫 How to reach me
 
 - [![](https://img.shields.io/badge/LinkedIn-toritova-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/toritovawebdev/)
-- [![](https://img.shields.io/badge/Instagram-Instagram-blue?style=social&logo=instagram)](https://www.instagram.com/vika_lindeman_webdev)
+- [![](https://img.shields.io/badge/Instagram-vika_lindeman_webdev-blue?style=social&logo=instagram)](https://www.instagram.com/vika_lindeman_webdev)
 - [![](https://img.shields.io/badge/Email-toriatovawebdev@gmail.com-red?style=social&logo=gmail)](mailto:toriatovawebdev@gmail.com)
