@@ -12,4 +12,4 @@
 ### 📫 How to reach me
 
 - [![](https://img.shields.io/badge/LinkedIn-toritova-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/toritovawebdev/)
-- [![](https://img.shields.io/badge/Email-toriatovawebdev@gmail.com-red?style=social&logo=gmail)](#)
+- [![](https://img.shields.io/badge/Email-toriatovawebdev@gmail.com-red?style=social&logo=gmail)](mailto:toriatovawebdev@gmail.com)
