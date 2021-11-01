@@ -11,6 +11,5 @@
 
 ### 📫 How to reach me
 
-- [![](https://img.shields.io/badge/LinkedIn-jhanviloria-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jhanviloria)
-- [![](https://img.shields.io/badge/Twitter-jhanca__vm-blue?style=social&logo=twitter)](https://twitter.com/jhanca_vm)
-- [![](https://img.shields.io/badge/Email-jhanca.dev@gmail.com-red?style=social&logo=gmail)](#)
+- [![](https://img.shields.io/badge/LinkedIn-toritova-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/toritovawebdev/)
+- [![](https://img.shields.io/badge/Email-toriatovawebdev@gmail.com-red?style=social&logo=gmail)](#)
