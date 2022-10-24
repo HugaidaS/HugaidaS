@@ -1,5 +1,3 @@
-![](https://i.ibb.co/yfh8kCN/Hi-there.png)
-
 ### 👨‍💻 Skills
 
 
