@@ -6,7 +6,8 @@
 [![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-Tailwind-35B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-
+[![](https://img.shields.io/badge/-NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=ed2945)](https://docs.nestjs.com/)
+[![](https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=d64292)](https://docs.nestjs.com/)
 
 ### 📫 How to reach me
 
