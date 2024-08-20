@@ -1,13 +1,28 @@
-### 👨‍💻 Skills
+## 👨‍💻 Skills
 
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,svelte,bootstrap,figma,tailwind)](https://skillicons.dev)
 
-[![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=16181D)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/blog/next-14)
-[![](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-Tailwind-35B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![](https://img.shields.io/badge/-NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=ed2945)](https://docs.nestjs.com/)
-[![](https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=d64292)](https://docs.nestjs.com/)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nestjs,mongodb,nodejs,postman)](https://skillicons.dev)
+
+### CI/CD & Deployment
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,github,vercel)](https://skillicons.dev)
+
+### Management
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+
+### IDE
+[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)](https://skillicons.dev)
+
+### Package managers
+[![My Skills](https://skillicons.dev/icons?i=pnpm,npm,yarn)](https://skillicons.dev)
+
+### Other languages and technologies
+[![My Skills](https://skillicons.dev/icons?i=py,solidity)](https://skillicons.dev)
+
+## Technical writing
+Welcome to my dev.to little blog: [here](https://www.linkedin.com/in/toritovawebdev/)
 
 ### 📫 How to reach me
 
