@@ -9,9 +9,6 @@
 ### CI/CD & Deployment
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,github,vercel)](https://skillicons.dev)
 
-### Management
-[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
-
 ### IDE
 [![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)](https://skillicons.dev)
 
@@ -19,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=pnpm,npm,yarn)](https://skillicons.dev)
 
 ### Other languages and technologies
-[![My Skills](https://skillicons.dev/icons?i=py,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,solidity,notion)](https://skillicons.dev)
 
 ## Technical writing
 Welcome to my dev.to little blog: [here](https://www.linkedin.com/in/toritovawebdev/)
